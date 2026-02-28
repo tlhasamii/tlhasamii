@@ -1,7 +1,6 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/17667743/175790033-90eaa6b0-6d57-4a0e-b42f-8e7d78f0c6e0.gif" width="30" />
   Hi, I'm <strong>Talha Sami</strong>
 </h1>
 
