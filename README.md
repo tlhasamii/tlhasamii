@@ -11,8 +11,7 @@
 
   <p>
     I am a passionate Software Engineering student focused on building modern,
-    scalable, and user-friendly applications.  
-    I enjoy turning ideas into interactive mobile apps using Flutter and 
+    scalable, and user-friendly applications. I enjoy turning ideas into interactive mobile apps using Flutter and 
     crafting intuitive UI/UX experiences.
   </p>
 
