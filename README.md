@@ -7,8 +7,6 @@
 <h3>Software Engineering Student | Flutter Developer | UI/UX Enthusiast</h3>
 
 <div align="left">
-  <img align="right" width="350" src="YOUR_ROBOT_GIF_LINK_HERE" />
-
   <p>
     I am a passionate Software Engineering student focused on building modern,
     scalable, and user-friendly applications. I enjoy turning ideas into interactive mobile apps using Flutter and 
